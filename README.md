@@ -1,7 +1,9 @@
 
 
 # healthcare-schema
+
 Repository for developing and deploying ddl scripts to snowflake using Terraform and GitHub Actions for the Blue Cross Blue Shield of Rhode Island project.
+
 -----------------------------------------------------
 
 # Contents:
